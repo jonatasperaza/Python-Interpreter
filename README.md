@@ -31,5 +31,3 @@ node server.js
 ```
 
 <p>O servidor estará ativo em http://localhost:3000/.</p>
-
-eu amo a dalva
